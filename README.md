@@ -1,8 +1,13 @@
-***[Repositorio en proceso]***
+***[Repo in construction]***
+
 
 # SimpleMC workshop (2 days) 
 
-## Requisitos
+Oficial GitHub  repo: https://github.com/ja-vazquez/SimpleMC 
+
+Docs: https://igomezv.github.io/SimpleMC/index.html#  
+
+## Requirements
 
 - Una computadora e Internet. 
 - Una cuenta de Google. 
@@ -11,18 +16,10 @@ Para evitar instalación de librerías se recomienda [Google Colab](https://cola
 
 Desde [Google Colab](https://colab.research.google.com) puedes buscar este repositorio, abrirlo y hacer una copia en tu Google Drive para poder guardar tus cambios. También puedes clonar o descargar el repositorio y abrir las notebooks desde Google Colab. 
 
-**Se recomienda descargar, clonar o acceder al repositorio el día del evento para tener la versión final.**
-
 -----------------------------------
 
-## Plan del taller
+## Workshop outline
 
-### Día 1
+### Day 1
 
-### Día 2
-
------------------------------
-
-## Referencias
-
-- https://igomezv.github.io/SimpleMC/index.html# 
+### Day 2
