@@ -1,4 +1,4 @@
-***[Repo in construction]***
+***[Repo under construction]***
 
 
 # SimpleMC workshop (2 days) 
