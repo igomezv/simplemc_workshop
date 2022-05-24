@@ -9,12 +9,12 @@ Docs: https://igomezv.github.io/SimpleMC/index.html#
 
 ## Requirements
 
-- Una computadora e Internet. 
-- Una cuenta de Google. 
+- A computer, Internet conection and a Google account (to use google colab).
+- Otherwise, you must install the dependecies from [requirements_full.txt](https://github.com/ja-vazquez/SimpleMC/blob/master/requirements_full.txt). You can use *pip3 install -r requirements_full.txt*. 
 
-Para evitar instalación de librerías se recomienda [Google Colab](https://colab.research.google.com), el cual es un servicio gratuito de Google para ejecutar *notebooks* en la nube, permitiendo utilizar Python 2 o Python 3 con CPU, GPU y TPU. Solo es necesario tener una cuenta de Google. Para este mini-curso se requiere entorno de ejecución Python 3. 
+For didactic purposes, we recommend [Google Colab](https://colab.research.google.com), a free Google service to run *notebooks* in the cloud, allowing to use Python 2 or Python 3 with CPU, GPU and TPU. Only a Google account is required. SimpleMC is coded in Python 3. 
 
-Desde [Google Colab](https://colab.research.google.com) puedes buscar este repositorio, abrirlo y hacer una copia en tu Google Drive para poder guardar tus cambios. También puedes clonar o descargar el repositorio y abrir las notebooks desde Google Colab. 
+You can find this repo from [Google Colab](https://colab.research.google.com), open it and make a copy to save your changes to Google Drive. You also can clone or download this repository and run the notebooks locally or in Google Colab. 
 
 -----------------------------------
 
