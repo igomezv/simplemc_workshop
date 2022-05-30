@@ -1,6 +1,3 @@
-***[Repo under construction]***
-
-
 # SimpleMC workshop (2 days) 
 
 Oficial GitHub  repo: https://github.com/ja-vazquez/SimpleMC 
