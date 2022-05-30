@@ -22,4 +22,12 @@ You can find this repo from [Google Colab](https://colab.research.google.com), o
 
 ### Day 1
 
+- Introduction to Bayesian inference and parameter estimation
+- Introduction and installation of SimpleMC.
+- First examples in SimpleMC. 
+
 ### Day 2
+
+- Model comparison. 
+- New models.
+- New datasets.
