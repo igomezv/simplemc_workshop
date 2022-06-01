@@ -19,12 +19,19 @@ You can find this repo from [Google Colab](https://colab.research.google.com), o
 
 ### Day 1
 
-- Introduction to Bayesian inference and parameter estimation
+- Overview of Bayesian inference and parameter estimation
 - Introduction and installation of SimpleMC.
-- First examples in SimpleMC. 
+- First examples in SimpleMC:
+	- CosmoCalc
+	- Optimizers.
 
 ### Day 2
 
-- Model comparison. 
+- Review for Day 1.
+- Bayesian inference.
+- Using an ini file (exercise). 
+- Model comparison (exercise). 
 - New models.
-- New datasets.
+  - Without cosmology.
+  - Based on LCDM. 
+- New datasets (optional, exercise).
